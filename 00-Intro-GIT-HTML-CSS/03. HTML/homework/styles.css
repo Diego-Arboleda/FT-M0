@@ -1,0 +1,32 @@
+*{
+    margin: 8px;
+    
+}
+body{
+    background-image: url("../img/fondo.gif");
+ 
+}
+img{
+    width: 400px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    flex-direction: column;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: #12382b;
+    padding: 50px;
+    border: 0.3em solid black;
+    border-radius: 1em;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+h1{
+  color: #263379;   
+}
