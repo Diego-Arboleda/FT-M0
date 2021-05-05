@@ -1,0 +1,5 @@
+Una variable es un espacio em el cual se puede guardar datos.
+los string son tipos de datos que representan texto
+las funciones son  instrucciones que te permiten obtener un resultado deseado
+la declaraciones como el if son condiciones para utilizar operaciones en las cuales dependiendo del resultado   podemos realizar operaciones
+las variables booleanas son las declaración de algo sea verdadero o falso
