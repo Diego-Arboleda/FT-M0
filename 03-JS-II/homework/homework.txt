@@ -1,0 +1,3 @@
+El for es una instrucción que se repite una cantidad de veces establecida
+&& y el || es algo que te ayuda a validar varias condiciones donde todas deverian ser verdaderas o falsas segun sea la necesidad
+el ! es la negación de una condinción por ejemplo si a es igual(a=b) b con las negación (!)pordemor devir que a no es b(!a=b)
