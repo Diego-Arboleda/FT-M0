@@ -1,0 +1,1 @@
+las arrays son espacio en la memoria que te permite guardan varios datos y de tipos de datos diferentes en el mismo lugar
